@@ -1,0 +1,8 @@
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.0\DotsCore.deps.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.0\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.0\DotsCore.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.0\DotsCore.csprojAssemblyReference.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.0\DotsCore.AssemblyInfoInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.0\DotsCore.AssemblyInfo.cs
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.0\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.0\DotsCore.pdb

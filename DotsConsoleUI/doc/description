@@ -1,0 +1,4 @@
+The target of the game is to connect dots (stars in this case) of the same color to remove them from the field.
+The controls are simple: write the coordinates of the first dot in your desired line. Then, using arrows, choose the direction you want to move.
+Every dot you remove is +1 point to your score. There will be an aption to save your score to the score file after the game. Same goes for your rate of the game, as well as comment you may leave. After that there will also be an option to see other scores, ratings and comments.
+Good luck :)

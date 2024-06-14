@@ -1,0 +1,33 @@
+﻿@using DotsCore.Entity
+@model DotsWeb.Models.ReviewModel
+<style>
+ol.no-bullets {
+  list-style-type: none;
+  padding: 0;
+}
+</style>
+
+@{
+    ViewData["Title"] = "Reviews";
+}
+
+<h1> Reviews </h1>
+<br>
+
+<h3>Rates</h3>
+<ol class="no-bullets">
+    @foreach (var r in Model.Ratings)
+    {
+        <li>@r.PlayerName: @r.Rate</li>
+    }
+</ol>
+
+<br>
+<h3>Comments</h3>
+
+<ol class="no-bullets">
+    @foreach (var r in Model.Comments)
+    {
+        <li >@r.PlayerName: @r.Text</li>
+    }
+</ol>

@@ -1,0 +1,12 @@
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.1\DotsCore.deps.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.1\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.1\DotsCore.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.AssemblyInfoInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.AssemblyInfo.cs
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.csproj.CoreCompileInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.1\DotsCore.runtimeconfig.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\bin\Debug\netcoreapp3.1\DotsCore.runtimeconfig.dev.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.genruntimeconfig.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsCore\obj\Debug\netcoreapp3.1\DotsCore.csprojAssemblyReference.cache

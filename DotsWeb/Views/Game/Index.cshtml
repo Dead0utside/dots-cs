@@ -1,0 +1,49 @@
+﻿@model DotsWeb.Models.GameModel
+
+@{
+    ViewData["Title"] = "Game";
+}
+
+<h1> Game </h1>
+Time: @Model.Field.SecondsLeft
+Score: @Model.Field.Score
+
+    <table>
+    @for (int r = 0; r < Model.Field.Rows; r++)
+    {
+        <tr>
+            @for (int c = 0; c < Model.Field.Cols; c++)
+            {
+                var dot = Model.Field.GetDot(r, c);
+                if (Model.Field.GetLine().Contains(dot))
+                {
+                    <th style="border: 2px solid @dot.Color">
+                        <a href="/Game/Connect?row=@r&col=@c">
+                            <img src="/images/game/dot@(dot.Color).png"/>
+                        </a>
+                    </th>
+                }
+                else
+                {
+                    <th>
+                        <a href="/Game/Connect?row=@r&col=@c">
+                            <img src="/images/game/dot@(dot.Color).png"/>
+                        </a>
+                    </th>
+                }
+            }
+        </tr>
+    }
+    </table>
+
+<a href="/Game/Connect?row=-2&col=-2"> End line </a>
+<br>
+<a href="/Game/Connect?row=-3&col=-3"> Cancel </a>
+
+<h2>Scores</h2>
+<ol>
+    @foreach (var score in Model.Scores)
+    {
+        <li>@score.PlayerName @score.Points</li>
+    }
+</ol>

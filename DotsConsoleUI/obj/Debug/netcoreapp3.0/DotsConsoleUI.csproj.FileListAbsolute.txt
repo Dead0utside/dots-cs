@@ -1,0 +1,14 @@
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.exe
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.deps.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.runtimeconfig.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.runtimeconfig.dev.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsConsoleUI.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\bin\Debug\netcoreapp3.0\DotsCore.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.csprojAssemblyReference.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.AssemblyInfoInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.AssemblyInfo.cs
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.csproj.CopyComplete
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsoleUI\obj\Debug\netcoreapp3.0\DotsConsoleUI.pdb

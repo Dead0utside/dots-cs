@@ -1,0 +1,16 @@
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.exe
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.deps.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.runtimeconfig.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.runtimeconfig.dev.json
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsConsole.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsCore.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\bin\Debug\netcoreapp3.1\DotsCore.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.csprojAssemblyReference.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.AssemblyInfoInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.AssemblyInfo.cs
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.csproj.CoreCompileInputs.cache
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.csproj.CopyComplete
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.dll
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.pdb
+C:\Users\volod\Documents\GitHub\dotnet-5464\DotsConsole\obj\Debug\netcoreapp3.1\DotsConsole.genruntimeconfig.cache

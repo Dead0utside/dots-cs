@@ -1,0 +1,35 @@
+﻿@model DotsWeb.Models.GameModel
+
+<h1 align="center">Game over</h1>
+<h6 align="center">Your score: @Model.Field.Score</h6>
+<div>You can save it if you want</div>
+<form action="/Game/SaveScore" method="post">
+    <a>Enter your desired nickname: </a>
+    <br>
+    <input type="text" name="player">
+    <input type="hidden" name="points" value="@Model.Field.Score">
+    <br>
+    <br>
+    <input type="submit" value="Confirm">
+</form>
+<br><br>
+<div>Would you mind sparing a minute to rate my game?</div>
+<form action="/Game/SaveRatingComment" method="post">
+    <div>Nickname: </div>
+    <input type="text" name="player">
+    <div>Rating: </div>
+    <input type="text" name="rate">
+    <br>
+    <div>Comment: </div>
+    <input type="text" name="commentText">
+    <br>
+    <br>
+    <input type="submit" value="Save">
+</form>
+
+<br>
+<br>
+
+<form action="/Game/GoHome" method="post">
+    <input type="submit" value="Home">
+</form>
